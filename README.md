@@ -7,9 +7,14 @@ Exposes on 8180.
 ## Run
 
 ```sh
-go hello.go
+go run hello.go
 ```
 
+## Test
+
+```sh
+go test
+```
 
 ## Build
 
